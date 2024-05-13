@@ -1,5 +1,6 @@
 # Thinkpad-X1-C6-hackintosh
 ### OpenCore 1.0.0 Debug Release
+SSDTs generated using SSDT Time
 ### MacOS Sonoma 14.4.1 using SMBIOS `MacbookPro 15,2`
 ## Hardware
 CPU: Intel(R) Core(TM) i7-8650U CPU @ 1.90GHz (Kaby Lake-R)
