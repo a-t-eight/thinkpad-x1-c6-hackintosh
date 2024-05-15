@@ -1,4 +1,4 @@
-# Thinkpad-X1-C6-hackintosh
+# Thinkpad X1 Carbon 6th Gen (C6) Hackintosh
 ### OpenCore 1.0.0 Debug Release
 SSDTs generated using SSDT Time
 ### MacOS Sonoma 14.4.1 using SMBIOS `MacbookPro 15,2`
